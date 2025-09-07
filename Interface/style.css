@@ -1,0 +1,41 @@
+.section1,
+.section2,
+.section3 {
+    text-align: center;
+}
+
+.section1 {
+    margin-top: 20px;
+    margin-bottom: 5px;
+}
+
+.logo {
+    width: 210px;
+}
+
+.search-bar {
+    width: 500px;
+    height: 37px;
+    padding: 8px 16px;
+    border-radius: 40px;
+    border: none;
+    font-size: 16px;
+    box-shadow: 0 0 3px rgb(116, 111, 111);
+}
+
+.search-bar:focus {
+    outline: none;
+}
+
+.section2 {
+    margin-bottom: 33px;
+}
+
+button {
+    padding: 11px 16px;
+    font-weight: bold;
+    background-color: rgb(246, 246, 246);
+    border: none;
+    margin-right: 9px;
+    cursor: pointer;
+}
